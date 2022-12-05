@@ -42,29 +42,7 @@ product-based company.
       
       - 📫 How to reach me *pk041222@gmail.com*
       
-      
-      <hr />
-      
-      
-      <h2 align="center">📱 Connect with me</h2>
-      <br />
-     <div align="center" >
-      
-     <a href="https://www.linkedin.com/in/prabhat-poddar-b98bab22b/" target="_blank">
-     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center" alt="LinkedIn"> </a>
-      
-      <a href="https://prabhatpoddar.github.io/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" align="center" alt="Portfolio"> </a>
-      
-      <a href="https://twitter.com/Prabhat71242001" target="_blank">
-     <img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" align="center" alt="Twitter"> </a>
-      
-      <a title="prabhat-poddar" href="mailto:pk041222@gmail.com" target="_blank">
-     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center" alt="html5"> </a>
-     
-     </div>
-      
-      <hr />
+   
       
       
       <h2 align="center">🚀 Languages and Tools:</h2>
